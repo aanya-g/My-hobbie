@@ -1,0 +1,45 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel1, #myCarousel2{
+    text-align: center;
+    background-color: crimson;
+    border:1px solid black;
+    height:600px
+}
+#myCarousel2{
+    background-color:aquamarine;
+}
+#myCarousel1 img,#myCarousel2 img{
+    height:300px;
+    margin-top: 35px
+}
+.carousel-inner p{
+
+    color:white;
+}
+.carousel-caption{
+position:inherit;
+margin-top:100px;
+}
+
+body{
+text-align: center;
+background-image: url(real.jpg);
+}
+#SECTION1{
+    background-image: url(background.jpg);
+}
+#pone{
+    font-size:20px;
+}
+#img_one{
+    width:600px;
+}
