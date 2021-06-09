@@ -43,3 +43,27 @@ background-image: url(real.jpg);
 #img_one{
     width:600px;
 }
+.menu{
+  text-align:center;
+  list-style: none;
+  position:fixed;
+  top:0;
+  right:30;
+  left:30;
+  z-index:10;
+  color:white;
+  background-color: black;
+  width:100%;
+  
+}
+.mynavbar{
+
+  float:left;
+  padding:5px 9px;
+  text-align:center;
+  
+}
+.mynavbar a{
+  text-align:center;
+  color:white;
+}
